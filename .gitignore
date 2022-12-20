@@ -1,4 +1,6 @@
 
 *.zip
 *.png
+*.py
 **/
+readme.txt
